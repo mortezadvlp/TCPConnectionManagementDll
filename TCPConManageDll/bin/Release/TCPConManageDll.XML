@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TCPConManageDll</name>
+    </assembly>
+    <members>
+        <member name="T:TCPConManageDll.TCPConManageInfo">
+            <summary>
+            About this file
+            </summary>
+        </member>
+        <member name="T:TCPConManageDll.TCPConnectionManager">
+            <summary>
+            Show which connections are using a specified port, and release that port by terminating applications using it.
+            </summary>
+        </member>
+        <member name="M:TCPConManageDll.TCPConnectionManager.getTCpConnections(System.Int32)">
+            <summary>
+            Show which connections are using a specified port.
+            </summary>
+            <param name="port">Port number</param>
+            <returns>List of Connections information</returns>
+        </member>
+        <member name="M:TCPConManageDll.TCPConnectionManager.TerminateTCPConnections(System.Int32)">
+            <summary>
+            Release a specified port by terminating applications using it.
+            This function needs admin privilege for each termination.
+            </summary>
+            <param name="port">Port number</param>
+        </member>
+    </members>
+</doc>

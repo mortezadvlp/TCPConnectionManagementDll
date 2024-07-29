@@ -1,0 +1,12 @@
+E:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\bin\Debug\TCPConManageDll.dll
+E:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\bin\Debug\TCPConManageDll.pdb
+E:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\obj\Debug\TCPConManageDll.dll
+E:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\obj\Debug\TCPConManageDll.pdb
+E:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\obj\Debug\TCPConManageDll.csprojResolveAssemblyReference.cache
+E:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\bin\Debug\TCPConManageDll.XML
+G:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\bin\Debug\TCPConManageDll.XML
+G:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\bin\Debug\TCPConManageDll.dll
+G:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\bin\Debug\TCPConManageDll.pdb
+G:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\obj\Debug\TCPConManageDll.csprojResolveAssemblyReference.cache
+G:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\obj\Debug\TCPConManageDll.dll
+G:\Morteza\CSharp\Projects\Libraries\TCPConManageDll\TCPConManageDll\obj\Debug\TCPConManageDll.pdb
