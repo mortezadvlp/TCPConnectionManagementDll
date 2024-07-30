@@ -12,13 +12,13 @@ namespace TCPConManageDll
     /// </summary>
     public static class TCPConManageInfo
     {
-        public const string Description = "Show which connections are using a specified port, and release that port by terminating applications using it.";
+        public const string Description = "By using this dll file, you can see which connections are using a specific port, and release the port by terminating related applications.";
         public const string Developer = "Morteza Mahmoudi";
         public const string EMail = "mortezadvlp@gmail.com";
     }
 
     /// <summary>
-    /// Show which connections are using a specified port, and release that port by terminating applications using it.
+    /// By using this dll file, you can see which connections are using a specific port, and release the port by terminating related applications.
     /// </summary>
     public class TCPConnectionManager
     {
